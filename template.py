@@ -7,7 +7,6 @@ logging.basicConfig(
     format= "[%(asctime)s: %(levelname)s]: %(message)s"
     )
 
-
 while True:
     project_name = input("Enter your project name: ")
     if project_name != "":
@@ -15,10 +14,7 @@ while True:
     else:
         logging.info("Project name cannot be empty string. Please enter a valid project name.")
 
-
-
 logging.info(f"Creating project by name: {project_name}")
-
 
 # list of files:
 list_of_files = [
