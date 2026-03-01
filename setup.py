@@ -11,7 +11,7 @@ __version__ = "0.0.1"
 REPO_NAME = "NexusView"
 AUTHOR_USER_NAME = "ajaygopireddy216"
 AUTHOR_EMAIL = "ajaygopireddy216@gmail.com"
-SRC_REPO = "NexusView-AJayKumarReddy"
+SRC_REPO = "NexusViewAjayKumarReddy"
 
 setuptools.setup(
     name=SRC_REPO,

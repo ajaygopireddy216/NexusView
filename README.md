@@ -24,17 +24,17 @@ Stop switching tabs to read documentation or watch tutorials—view them right n
 You can install NexusView via pip:
 
 ```bash
-pip install NexusView
+pip install NexusViewAjayKumarReddy
 ```
 
 ```python
-from NexusView.youtube import render_youtube_video
+from NexusViewAjayKumarReddy.youtube import render_youtube_video
 
 render_youtube_video("https://www.youtube.com/watch?v=h25pePMdoPA&t=712s")
 ```
 
 ```python
-from NexusView.site import render_site
+from NexusViewAjayKumarReddy.site import render_site
 
 render_site("https://www.google.com")
 ```
