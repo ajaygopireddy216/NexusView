@@ -1,8 +1,8 @@
 # NexusView 🚀
 
-[![PyPI version](https://img.shields.io/pypi/v/NexusViewPro.svg)](https://pypi.org/project/NexusView/)
-[![Python versions](https://img.shields.io/pypi/pyversions/NexusViewPro.svg)](https://pypi.org/project/NexusView/)
-[![License](https://img.shields.io/pypi/l/NexusViewPro.svg)](https://github.com/entbappy/NexusViewPro/blob/main/LICENSE)
+[![PyPI version](https://img.shields.io/pypi/v/NexusView.svg)](https://pypi.org/project/NexusView/)
+[![Python versions](https://img.shields.io/pypi/pyversions/NexusView.svg)](https://pypi.org/project/NexusView/)
+[![License](https://img.shields.io/pypi/l/NexusView.svg)](https://github.com/ajaygopireddy216/NexusView/blob/main/LICENSE)
 
 **NexusView** is a lightweight Python library designed for Data Scientists and Jupyter Notebook users. It allows you to seamlessly render live websites and embed YouTube videos directly within your `.ipynb` environment (Jupyter Notebook, JupyterLab, Google Colab).
 
